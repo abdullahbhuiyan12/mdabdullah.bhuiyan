@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personal Portfolio Website HTML CSS Only | Codehal</title>
+  <link rel="stylesheet" href="style.css">
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  <link rel="canonical" href="http://www.mdabdullahbhuiyan.com/">
+</head>
+
+<body>
+  <header class="header">
+    <a href="#" class="logo">Abdullah</a>
+    <nav class="navbar">
+      <a href="#" class="active">Home</a>
+      <a href="#">About</a>
+      <a href="#">Services</a>
+      <a href="#">Portfolio</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section class="home">
+    <div class="home-content">
+      <h1>Hi, I'm Md Abdullah Bhuiyan</h1>
+      <h3>Frontend Developer</h3>
+      <p>🔭 About Me:</p>
+      <ul>
+        <li>I'm currently pursuing my Bachelor's degree in Computer Science and will be graduating in the class of 2025.</li>
+        <li>I learned programming language in a funny way. When I was a kid, I used to take apart my toys and put them back together. One day, I decided to take apart my family's computer and try to figure out how it worked. I accidentally broke something, and my parents had to take it to a repair shop. The technician showed me how to fix it, and that's how I got interested in programming!</li>
+        <li>I’m looking to collaborate on Software Engineering, Full Stack Development, and Deep Learning Projects. I am also a technical writer.</li>
+      </ul>
+    </div>
+
+    <div class="btn-box">
+      <a href="#">Hire me</a>
+      <a href="#">Let's talk</a>
+    </div>
+
+    <div class="home-sci">
+      <a href="https://www.facebook.com/abdullahbhuiyann"><i class="bx bxl-facebook"></i></a>
+      <a href="https://www.linkedin.com/in/abdullahbhuiyan12/"><i class="bx bxl-linkedin"></i></a>
+      <a href="https://www.instagram.com/abdullahbhuiyann/"><i class='bx bxl-instagram'></i></a>
+    </div>
+  </section>
+</body>
+
+</html>
